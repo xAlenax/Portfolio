@@ -1,5 +1,9 @@
-# Portfolio
+# Cyber Security Enthusiast
 
 ### Education
+- currentlyy studin at Centria
+- IT and Physics major in high school
 
-### Work Experience
+### Internships
+- two week internship at the DVZ
+-  one week internsip at LASOS
