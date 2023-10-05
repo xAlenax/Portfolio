@@ -1,7 +1,7 @@
 # Cyber Security Enthusiast
 
 ### Education
-- currentlyy studying at Centria
+- currently studying at Centria
 - IT and Physics major in high school
 - different programming courses
 - SQL course as open studies
